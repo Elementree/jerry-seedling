@@ -1,0 +1,6 @@
+{
+    "sketch": "jerry_seedling\\jerry_seedling.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "output": "../jerry-seedling-build"
+}
